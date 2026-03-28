@@ -13,7 +13,7 @@
             "Name": "FontManager",
             "Description": "The easiest font changer available",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -64,7 +64,7 @@
             "Name": "SoundManager",
             "Description": "The only sound changer you'll ever need!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -145,7 +145,7 @@
             "Name": "SettingsManager",
             "Description": "The all in one settings customizer",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -186,7 +186,7 @@
             "Name": "NoVulnTools2",
             "Description": "The best toolbox for your device",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -248,7 +248,7 @@
             "Name": "ColorBoard",
             "Description": "A slight hint of color",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -313,7 +313,7 @@
             "Name": "QuickActionColor",
             "Description": "Give your lockscreen a unique look",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -346,7 +346,7 @@
             "Name": "AppCC",
             "Description": "Launching apps from the Control Center with ease",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -387,7 +387,7 @@
             "Name": "CarPlayWP",
             "Description": "The ultimate CarPlay tweak",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -418,7 +418,7 @@
             "Name": "MuteAnimation",
             "Description": "Custom mute animations or image",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -459,7 +459,7 @@
             "Name": "LSFootnote",
             "Description": "a footnote on your lockscreen",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -490,7 +490,7 @@
             "Name": "FrostedUI",
             "Description": "Completely change the way iOS looks",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -537,7 +537,7 @@
             "Name": "ModernCC",
             "Description": "Give your Control Center a modern look",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -578,7 +578,7 @@
             "Name": "Pulsar LS UI",
             "Description": "Pulsar on your lockscreen",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -608,7 +608,7 @@
             "Name": "Gradient Passcode & Phone",
             "Description": "Change your passcode & phone keys!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & Z3ROS1X",
                 "Links": [
@@ -662,7 +662,7 @@
             "Name": "Wayfinder Clock",
             "Description": "Wayfinder watch face on iOS",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -697,7 +697,7 @@
             "Name": "Engage Charging Sound",
             "Description": "Change your charging sound!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -726,7 +726,7 @@
             "Name": "Debug Stoofs",
             "Description": "Enable debug options",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -756,7 +756,7 @@
             "Name": "Classic Settings",
             "Description": "iOS 6 inside your settings",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -803,7 +803,7 @@
             "Name": "FelicitySettings",
             "Description": "a more colorful & detailed look for your settings",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -863,7 +863,7 @@
             "Name": "Vivacity Settings",
             "Description": "A Vibrant Theme to Light up Your Settings!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -923,7 +923,7 @@
             "Name": "Double Bubble Settings",
             "Description": "Double Bubble Settings with MDC",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -983,7 +983,7 @@
             "Name": "Morandi Settings",
             "Description": "Morandi Settings with MDC",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -1043,7 +1043,7 @@
             "Name": "Nothing Clock Font (iOS 15)",
             "Description": "a breath of fresh air",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1076,7 +1076,7 @@
             "Name": "Pencil Clock Font (iOS 15)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1105,7 +1105,7 @@
             "Name": "sushiki Clock Font (iOS 15)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1134,7 +1134,7 @@
             "Name": "Spaceship Clock Font (iOS 15)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1163,7 +1163,7 @@
             "Name": "Retake Clock Font (iOS 15)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1192,7 +1192,7 @@
             "Name": "Meloso Clock Font (iOS 15)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & Alexman",
                 "Links": [
@@ -1225,7 +1225,7 @@
             "Name": "Tomorrow Clock Font (iOS 16)",
             "Description": "a breath of fresh air",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & HackZy",
                 "Links": [
@@ -1262,7 +1262,7 @@
             "Name": "Paint Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1297,7 +1297,7 @@
             "Name": "Meloso Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & Alexman",
                 "Links": [
@@ -1330,7 +1330,7 @@
             "Name": "Exciter Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -1363,7 +1363,7 @@
             "Name": "Compile Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -1396,7 +1396,7 @@
             "Name": "Stencil Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -1429,7 +1429,7 @@
             "Name": "EULA Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -1462,7 +1462,7 @@
             "Name": "AuLac Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -1495,7 +1495,7 @@
             "Name": "NothingOS Font",
             "Description": "Change your font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & CyberNeel",
                 "Links": [
@@ -1569,7 +1569,7 @@
             "Name": "Bronkoh Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
@@ -1603,7 +1603,7 @@
             "Name": "Quicksand Font 100%",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & Alexman",
                 "Links": [
@@ -1637,7 +1637,7 @@
             "Name": "Quicksand Font 85%",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & Alexman",
                 "Links": [
@@ -1671,7 +1671,7 @@
             "Name": "Shoot a Star Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
@@ -1705,7 +1705,7 @@
             "Name": "Comic Relief Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
@@ -1739,7 +1739,7 @@
             "Name": "Sica Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
@@ -1773,7 +1773,7 @@
             "Name": "3D Fluent Emojis",
             "Description": "3D Fluent Emojis on iOS",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & PS",
                 "Links": [
@@ -1811,7 +1811,7 @@
             "Name": "14 Pro Lock",
             "Description": "The Lock of a Pro",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -1847,7 +1847,7 @@
             "Name": "Android Lock",
             "Description": "A taste of the other side",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1876,7 +1876,7 @@
             "Name": "Trollface Lock",
             "Description": "The Lock of a Troll",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1906,7 +1906,7 @@
             "Name": "Disintegrating Emoji Lock",
             "Description": "bro just got thanos snapped",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1935,7 +1935,7 @@
             "Name": "Mario Lock",
             "Description": "Here we go!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1964,7 +1964,7 @@
             "Name": "Bomber Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -1997,7 +1997,7 @@
             "Name": "Boom Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2030,7 +2030,7 @@
             "Name": "Gastly Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2063,7 +2063,7 @@
             "Name": "Glitched Skull Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2096,7 +2096,7 @@
             "Name": "Greenpois0n Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2129,7 +2129,7 @@
             "Name": "Hello Kitty Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2162,7 +2162,7 @@
             "Name": "Majora's Mask Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2195,7 +2195,7 @@
             "Name": "Nasa Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2228,7 +2228,7 @@
             "Name": "Pink Circle Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2261,7 +2261,7 @@
             "Name": "Rainbow Star Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2294,7 +2294,7 @@
             "Name": "Street Fighter Lock - Blanca",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2327,7 +2327,7 @@
             "Name": "Street Fighter Lock - Dhalsim",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2360,7 +2360,7 @@
             "Name": "Street Fighter Lock - Ken",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2393,7 +2393,7 @@
             "Name": "Street Fighter Lock - Ryu",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2426,7 +2426,7 @@
             "Name": "Tails Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2459,7 +2459,7 @@
             "Name": "Toad Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2492,7 +2492,7 @@
             "Name": "Togepi Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2525,7 +2525,7 @@
             "Name": "UFO Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2558,7 +2558,7 @@
             "Name": "Zombies Ate My Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6.1",
+            "MaxIOSVersion": "17.5.1",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
